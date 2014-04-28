@@ -1,0 +1,197 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/2057/trunk/web/template/sae
+END
+faqs.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2057/trunk/web/template/sae/faqs.php
+END
+userinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2057/trunk/web/template/sae/userinfo.php
+END
+contestrank.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2057/trunk/web/template/sae/contestrank.php
+END
+oj-header.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2057/trunk/web/template/sae/oj-header.php
+END
+submitpage.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2057/trunk/web/template/sae/submitpage.php
+END
+lostpassword.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2057/trunk/web/template/sae/lostpassword.php
+END
+contest-header.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2057/trunk/web/template/sae/contest-header.php
+END
+comparesource.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2057/trunk/web/template/sae/comparesource.php
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2057/trunk/web/template/sae/index.php
+END
+problemset.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2057/trunk/web/template/sae/problemset.php
+END
+contest.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2057/trunk/web/template/sae/contest.php
+END
+hoj.css
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2057/trunk/web/template/sae/hoj.css
+END
+mail.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2057/trunk/web/template/sae/mail.php
+END
+reinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2057/trunk/web/template/sae/reinfo.php
+END
+conteststatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2057/trunk/web/template/sae/conteststatus.php
+END
+online.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2057/trunk/web/template/sae/online.php
+END
+modifypage.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2057/trunk/web/template/sae/modifypage.php
+END
+faqs.cn.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2057/trunk/web/template/sae/faqs.cn.php
+END
+error.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2057/trunk/web/template/sae/error.php
+END
+conteststatistics.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2057/trunk/web/template/sae/conteststatistics.php
+END
+contestset.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2057/trunk/web/template/sae/contestset.php
+END
+recent-contest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2057/trunk/web/template/sae/recent-contest.php
+END
+problem.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2057/trunk/web/template/sae/problem.php
+END
+showsource.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2057/trunk/web/template/sae/showsource.php
+END
+ceinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2057/trunk/web/template/sae/ceinfo.php
+END
+oj-footer.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2057/trunk/web/template/sae/oj-footer.php
+END
+problemstatus.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2057/trunk/web/template/sae/problemstatus.php
+END
+loginpage.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2057/trunk/web/template/sae/loginpage.php
+END
+registerpage.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2057/trunk/web/template/sae/registerpage.php
+END
+status.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2057/trunk/web/template/sae/status.php
+END
+lostpassword2.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2057/trunk/web/template/sae/lostpassword2.php
+END
+ranklist.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2057/trunk/web/template/sae/ranklist.php
+END
